@@ -1,3 +1,15 @@
+/*
+ * kilo_nc - A terminal text editor based on 'Kilo'.
+ * * Original Work (kilo.c):
+ * Copyright (C) 2016 Salvatore Sanfilippo <antirez at gmail dot com>
+ * * Modified and Adapted using ncurses:
+ * Copyright (C) 2026 [Nexus-226/GitHub ID]
+ * * This project is a re-implementation of the Kilo editor. While the core 
+ * editing logic and data structures are derived from the original work, 
+ * the terminal I/O, screen rendering, and input handling have been 
+ * rewritten using the ncurses library for practice purposes.
+ */
+
 /*include*/
 
 #define _DEFAULT_SOURCE

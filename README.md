@@ -1,6 +1,6 @@
 # kilo_nc
 
-基于Antirez的kilo的架构和Paige的教程，用ncurses库制作的文本编辑器（仅作为练习）
+基于Antirez的[kilo](https://github.com/antirez/kilo)的架构和Paige的教程[Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)，用ncurses库制作的文本编辑器（仅作为练习）
 ### 环境与构建
 
 ### 依赖
